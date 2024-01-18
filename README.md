@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betül Durgun</h1>
 <https://i.pinimg.com/originals/2c/f9/71/2cf971c4c37c55ec9920bec677a06d17.gif>
-<h3 align="center"></h3>
+<h3 align="center">Meraklı bir Mühendis</h3>
 
 - 🌱 I’m currently learning **.NET, C#**
 
